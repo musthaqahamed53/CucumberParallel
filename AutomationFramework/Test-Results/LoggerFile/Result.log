@@ -1,0 +1,107 @@
+2025-01-18 23:49:31 [main] INFO  hooks.Hooks - Launching browser and invoking URL
+2025-01-18 23:49:35 [main] INFO  stepDefinitions.LoginStepDef - Launching the application on the browser
+2025-01-18 23:49:38 [main] INFO  stepDefinitions.LoginStepDef - Entering email and password from Excel data
+2025-01-18 23:49:41 [main] INFO  stepDefinitions.LoginStepDef - Clicking login Button
+2025-01-18 23:49:42 [main] INFO  stepDefinitions.LoginStepDef - User Logged In
+2025-01-18 23:49:42 [main] INFO  hooks.Hooks - Closing Browser
+2025-01-18 23:49:43 [main] INFO  hooks.Hooks - Launching browser and invoking URL
+2025-01-18 23:49:47 [main] INFO  stepDefinitions.LoginStepDef - Launching the application on the browser
+2025-01-18 23:49:49 [main] INFO  stepDefinitions.LoginStepDef - Entering email and password from Excel data
+2025-01-18 23:49:50 [main] INFO  stepDefinitions.LoginStepDef - Clicking login Button
+2025-01-18 23:49:51 [main] INFO  stepDefinitions.LoginStepDef - Invalid User Error seen
+2025-01-18 23:49:51 [main] INFO  hooks.Hooks - Closing Browser
+2025-01-18 23:49:53 [main] INFO  hooks.Hooks - Launching browser and invoking URL
+2025-01-18 23:49:57 [main] INFO  stepDefinitions.LoginStepDef - Launching the application on the browser
+2025-01-18 23:50:00 [main] INFO  stepDefinitions.LoginStepDef - User logged in
+2025-01-18 23:50:02 [main] INFO  stepDefinitions.LoginStepDef - User Clicked Log out button
+2025-01-18 23:50:03 [main] INFO  stepDefinitions.LoginStepDef - User navigated to SignUpOrLogin Page
+2025-01-18 23:50:03 [main] INFO  hooks.Hooks - Closing Browser
+2025-01-18 23:50:05 [main] INFO  hooks.Hooks - Launching browser and invoking URL
+2025-01-18 23:50:09 [main] INFO  stepDefinitions.LoginStepDef - Launching the application on the browser
+2025-01-18 23:50:12 [main] INFO  stepDefinitions.SignUpStepDef - User Enters name and email
+2025-01-18 23:50:13 [main] INFO  stepDefinitions.SignUpStepDef - User navigates to account information page
+2025-01-18 23:50:22 [main] INFO  stepDefinitions.SignUpStepDef - User Enters necessary details
+2025-01-18 23:50:25 [main] INFO  stepDefinitions.SignUpStepDef - New Account created
+2025-01-18 23:50:25 [main] INFO  hooks.Hooks - Closing Browser
+2025-01-19 16:22:39 [main] INFO  hooks.Hooks - Launching browser and invoking URL
+2025-01-19 16:22:46 [main] INFO  stepDefinitions.LoginStepDef - Launching the application on the browser
+2025-01-19 16:22:50 [main] INFO  stepDefinitions.LoginStepDef - Entering email and password from Excel data
+2025-01-19 16:22:53 [main] INFO  stepDefinitions.LoginStepDef - Clicking login Button
+2025-01-19 16:22:53 [main] INFO  stepDefinitions.LoginStepDef - User Logged In
+2025-01-19 16:22:56 [main] INFO  hooks.Hooks - Closing Browser
+2025-01-19 16:23:01 [main] INFO  hooks.Hooks - Launching browser and invoking URL
+2025-01-19 16:23:08 [main] INFO  stepDefinitions.LoginStepDef - Launching the application on the browser
+2025-01-19 16:23:08 [main] INFO  stepDefinitions.LoginStepDef - Entering email and password from Excel data
+2025-01-19 16:23:09 [main] INFO  stepDefinitions.LoginStepDef - Clicking login Button
+2025-01-19 16:23:09 [main] INFO  stepDefinitions.LoginStepDef - Invalid User Error seen
+2025-01-19 16:23:11 [main] INFO  hooks.Hooks - Closing Browser
+2025-01-19 16:23:15 [main] INFO  hooks.Hooks - Launching browser and invoking URL
+2025-01-19 16:23:21 [main] INFO  stepDefinitions.LoginStepDef - Launching the application on the browser
+2025-01-19 16:23:25 [main] INFO  stepDefinitions.LoginStepDef - User logged in
+2025-01-19 16:23:26 [main] INFO  stepDefinitions.LoginStepDef - User Clicked Log out button
+2025-01-19 16:23:26 [main] INFO  stepDefinitions.LoginStepDef - User navigated to SignUpOrLogin Page
+2025-01-19 16:23:28 [main] INFO  hooks.Hooks - Closing Browser
+2025-01-19 16:23:32 [main] INFO  hooks.Hooks - Launching browser and invoking URL
+2025-01-19 16:23:39 [main] INFO  stepDefinitions.LoginStepDef - Launching the application on the browser
+2025-01-19 16:23:40 [main] INFO  stepDefinitions.SignUpStepDef - User Enters name and email
+2025-01-19 16:23:41 [main] INFO  stepDefinitions.SignUpStepDef - User navigates to account information page
+2025-01-19 16:23:45 [main] INFO  stepDefinitions.SignUpStepDef - User Enters necessary details
+2025-01-19 16:23:48 [main] INFO  stepDefinitions.SignUpStepDef - New Account created
+2025-01-19 16:23:51 [main] INFO  hooks.Hooks - Closing Browser
+2025-01-19 16:25:55 [TestNG-PoolService-3] INFO  hooks.Hooks - Launching browser and invoking URL
+2025-01-19 16:25:55 [TestNG-PoolService-1] INFO  hooks.Hooks - Launching browser and invoking URL
+2025-01-19 16:25:57 [TestNG-PoolService-4] INFO  hooks.Hooks - Launching browser and invoking URL
+2025-01-19 16:25:58 [TestNG-PoolService-2] INFO  hooks.Hooks - Launching browser and invoking URL
+2025-01-19 16:26:05 [TestNG-PoolService-4] INFO  stepDefinitions.LoginStepDef - Launching the application on the browser
+2025-01-19 16:26:06 [TestNG-PoolService-2] INFO  stepDefinitions.LoginStepDef - Launching the application on the browser
+2025-01-19 16:26:07 [TestNG-PoolService-1] INFO  stepDefinitions.LoginStepDef - Launching the application on the browser
+2025-01-19 16:26:11 [TestNG-PoolService-1] INFO  stepDefinitions.LoginStepDef - Entering email and password from Excel data
+2025-01-19 16:26:13 [TestNG-PoolService-4] INFO  hooks.Hooks - Closing Browser
+2025-01-19 16:26:13 [TestNG-PoolService-3] INFO  hooks.Hooks - Closing Browser
+2025-01-19 16:50:33 [TestNG-PoolService-2] INFO  hooks.Hooks - Launching browser and invoking URL
+2025-01-19 16:50:33 [TestNG-PoolService-3] INFO  hooks.Hooks - Launching browser and invoking URL
+2025-01-19 16:50:35 [TestNG-PoolService-1] INFO  hooks.Hooks - Launching browser and invoking URL
+2025-01-19 16:50:35 [TestNG-PoolService-4] INFO  hooks.Hooks - Launching browser and invoking URL
+2025-01-19 16:50:40 [TestNG-PoolService-3] INFO  stepDefinitions.LoginStepDef - Launching the application on the browser
+2025-01-19 16:50:42 [TestNG-PoolService-2] INFO  stepDefinitions.LoginStepDef - Launching the application on the browser
+2025-01-19 16:50:45 [TestNG-PoolService-2] INFO  stepDefinitions.LoginStepDef - Entering email and password from Excel data
+2025-01-19 16:50:45 [TestNG-PoolService-4] INFO  stepDefinitions.LoginStepDef - Launching the application on the browser
+2025-01-19 16:50:46 [TestNG-PoolService-2] INFO  stepDefinitions.LoginStepDef - Clicking login Button
+2025-01-19 16:50:47 [TestNG-PoolService-1] INFO  stepDefinitions.LoginStepDef - Launching the application on the browser
+2025-01-19 16:50:47 [TestNG-PoolService-2] INFO  stepDefinitions.LoginStepDef - Invalid User Error seen
+2025-01-19 16:50:48 [TestNG-PoolService-3] INFO  hooks.Hooks - Closing Browser
+2025-01-19 16:50:49 [TestNG-PoolService-4] INFO  stepDefinitions.SignUpStepDef - User Enters name and email
+2025-01-19 16:50:49 [TestNG-PoolService-1] INFO  stepDefinitions.LoginStepDef - Entering email and password from Excel data
+2025-01-19 16:50:50 [TestNG-PoolService-4] INFO  stepDefinitions.SignUpStepDef - User navigates to account information page
+2025-01-19 16:50:52 [TestNG-PoolService-2] INFO  hooks.Hooks - Closing Browser
+2025-01-19 16:50:55 [TestNG-PoolService-1] INFO  stepDefinitions.LoginStepDef - Clicking login Button
+2025-01-19 16:50:55 [TestNG-PoolService-1] INFO  stepDefinitions.LoginStepDef - User Logged In
+2025-01-19 16:50:58 [TestNG-PoolService-1] INFO  hooks.Hooks - Closing Browser
+2025-01-19 16:50:58 [TestNG-PoolService-4] INFO  stepDefinitions.SignUpStepDef - User Enters necessary details
+2025-01-19 16:51:02 [TestNG-PoolService-4] INFO  stepDefinitions.SignUpStepDef - New Account created
+2025-01-19 16:51:05 [TestNG-PoolService-4] INFO  hooks.Hooks - Closing Browser
+2025-01-19 16:56:28 [TestNG-PoolService-2] INFO  hooks.Hooks - Launching browser and invoking URL
+2025-01-19 16:56:28 [TestNG-PoolService-3] INFO  hooks.Hooks - Launching browser and invoking URL
+2025-01-19 16:56:30 [TestNG-PoolService-4] INFO  hooks.Hooks - Launching browser and invoking URL
+2025-01-19 16:56:30 [TestNG-PoolService-1] INFO  hooks.Hooks - Launching browser and invoking URL
+2025-01-19 16:56:38 [TestNG-PoolService-3] INFO  stepDefinitions.LoginStepDef - Launching the application on the browser
+2025-01-19 16:56:38 [TestNG-PoolService-2] INFO  stepDefinitions.LoginStepDef - Launching the application on the browser
+2025-01-19 16:56:40 [TestNG-PoolService-1] INFO  stepDefinitions.LoginStepDef - Launching the application on the browser
+2025-01-19 16:56:41 [TestNG-PoolService-4] INFO  stepDefinitions.LoginStepDef - Launching the application on the browser
+2025-01-19 16:56:43 [TestNG-PoolService-1] INFO  stepDefinitions.LoginStepDef - Entering email and password from Excel data
+2025-01-19 16:56:43 [TestNG-PoolService-2] INFO  stepDefinitions.LoginStepDef - Entering email and password from Excel data
+2025-01-19 16:56:45 [TestNG-PoolService-2] INFO  stepDefinitions.LoginStepDef - Clicking login Button
+2025-01-19 16:56:46 [TestNG-PoolService-2] INFO  stepDefinitions.LoginStepDef - Invalid User Error seen
+2025-01-19 16:56:46 [TestNG-PoolService-4] INFO  stepDefinitions.SignUpStepDef - User Enters name and email
+2025-01-19 16:56:47 [TestNG-PoolService-4] INFO  stepDefinitions.SignUpStepDef - User navigates to account information page
+2025-01-19 16:56:49 [TestNG-PoolService-3] INFO  stepDefinitions.LoginStepDef - User logged in
+2025-01-19 16:56:49 [TestNG-PoolService-1] INFO  stepDefinitions.LoginStepDef - Clicking login Button
+2025-01-19 16:56:50 [TestNG-PoolService-1] INFO  stepDefinitions.LoginStepDef - User Logged In
+2025-01-19 16:56:51 [TestNG-PoolService-3] INFO  stepDefinitions.LoginStepDef - User Clicked Log out button
+2025-01-19 16:56:51 [TestNG-PoolService-3] INFO  stepDefinitions.LoginStepDef - User navigated to SignUpOrLogin Page
+2025-01-19 16:56:57 [TestNG-PoolService-2] INFO  hooks.Hooks - Closing Browser
+2025-01-19 16:57:00 [TestNG-PoolService-1] INFO  hooks.Hooks - Closing Browser
+2025-01-19 16:57:03 [TestNG-PoolService-4] INFO  stepDefinitions.SignUpStepDef - User Enters necessary details
+2025-01-19 16:57:05 [TestNG-PoolService-3] INFO  hooks.Hooks - Closing Browser
+2025-01-19 16:57:06 [TestNG-PoolService-4] INFO  stepDefinitions.SignUpStepDef - New Account created
+2025-01-19 16:57:11 [TestNG-PoolService-4] INFO  hooks.Hooks - Closing Browser
